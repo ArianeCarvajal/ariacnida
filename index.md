@@ -14,12 +14,12 @@ Diseño de Software as a Service para la feria de Software del año 2023. **Phis
 <!-- [Link to another page](./another-page.html). -->
 
 ### PhisherFox - Landing Page
-<img scr = "image/LandingPage.png">
+<img scr = "LandingPage.png">
 
 Landing Page de PhisherFox realizado el 2024.
 
 ### PhisherFox - Flyer
-<img scr = "image/Flyer.png">
+<img scr = "Flyer.png">
 
 Documento que se entregó a las y los invitados de la Feria de Software en el año 2023.
 
